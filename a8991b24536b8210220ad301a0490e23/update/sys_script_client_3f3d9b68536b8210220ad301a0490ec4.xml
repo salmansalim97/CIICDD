@@ -13,6 +13,7 @@
         <script><![CDATA[function onLoad() {
    //Type appropriate comment here, and begin script below
    alert('test hello!');
+   alert('Hello world');
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -20,7 +21,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3f3d9b68536b8210220ad301a0490ec4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>test_123</sys_name>
         <sys_overrides/>
         <sys_package display_value="CICD test" source="x_691406_cicd_test">a8991b24536b8210220ad301a0490e23</sys_package>
@@ -28,7 +29,7 @@
         <sys_scope display_value="CICD test">a8991b24536b8210220ad301a0490e23</sys_scope>
         <sys_update_name>sys_script_client_3f3d9b68536b8210220ad301a0490ec4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-19 09:31:33</sys_updated_on>
+        <sys_updated_on>2024-07-19 09:40:32</sys_updated_on>
         <table>incident</table>
         <type>onLoad</type>
         <ui_type>0</ui_type>

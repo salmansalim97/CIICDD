@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_691406_cicd_test.test321cicddemo</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>test321cicddemo</name>
+        <script><![CDATA[var test321cicddemo = Class.create();
+test321cicddemo.prototype = {
+    initialize: function() {
+    },
+	sayHello: function() {
+               return "Hello!";
+	},
+
+    type: 'test321cicddemo'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-19 09:39:15</sys_created_on>
+        <sys_id>dcee132c536b8210220ad301a0490eef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test321cicddemo</sys_name>
+        <sys_package display_value="CICD test" source="x_691406_cicd_test">a8991b24536b8210220ad301a0490e23</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="CICD test">a8991b24536b8210220ad301a0490e23</sys_scope>
+        <sys_update_name>sys_script_include_dcee132c536b8210220ad301a0490eef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-19 09:39:15</sys_updated_on>
+    </sys_script_include>
+</record_update>
